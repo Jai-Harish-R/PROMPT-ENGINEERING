@@ -1,4 +1,5 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# EXP-1 : Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## Aim:	To develop a comprehensive understanding of the fundamental concepts of Generative Artificial Intelligence (Generative AI) and Large Language Models (LLMs), including their architecture, working principles, applications, benefits, limitations, and real-world impact across various industries.
 ## NAME : JAI HAIRSH R
 ## REG NO : 212224040124
 Experiment:
